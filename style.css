@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: #e0e0e0;
+}
+
+.content{
+    width: 30%;
+    height: 80vh;
+    margin: 10vh auto;
+    background-color: white;
+    text-align: center;
+}
+
+.title{
+    border-bottom: 1px solid grey;
+}
+
+.title-text{
+    font-style: italic;
+}
+#form{
+    margin-top: 20px;
+}
+
+#input{
+    padding: 5px 20px;
+}
+
+#input-button{
+    padding: 4px 20px;
+}
+
+#list-content{
+    width: 20%;
+    margin: 20px 120px;
+}
